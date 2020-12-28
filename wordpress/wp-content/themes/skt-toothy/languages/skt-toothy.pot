@@ -1,0 +1,420 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: SKT Toothy\n"
+"POT-Creation-Date: 2017-03-22 14:39+0530\n"
+"PO-Revision-Date: 2016-12-19 18:17+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:14
+msgid "404 Not Found"
+msgstr ""
+
+#: 404.php:17
+msgid ""
+"Looks like you have taken a wrong turn.....Dont worry... it happens to the "
+"best of us."
+msgstr ""
+
+#: archive.php:36 front-page.php:134
+msgid "Back"
+msgstr ""
+
+#: archive.php:37 front-page.php:135
+msgid "Next"
+msgstr ""
+
+#: archive.php:38
+msgid "Posts navigation"
+msgstr ""
+
+#: category.php:19
+msgid "Category: "
+msgstr ""
+
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:36 comments.php:56
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:37 comments.php:57
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:38 comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: content-single.php:25 image.php:59 page.php:26
+msgid "Pages:"
+msgstr ""
+
+#: content-single.php:29 page.php:30
+msgid "Page"
+msgstr ""
+
+#: content.php:19
+msgid ", "
+msgstr ""
+
+#: content.php:27
+msgid "Read More &rarr;"
+msgstr ""
+
+#: content.php:31
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: customize-pro/example-1/class-customize.php:76
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: customize-pro/example-1/class-customize.php:77
+msgid "Upgrade Now"
+msgstr ""
+
+#: footer.php:37 front-page.php:57
+msgid "Read More"
+msgstr ""
+
+#: functions.php:39
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:54
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:55
+msgid "Appears on blog page sidebar"
+msgstr ""
+
+#: functions.php:64
+msgid "Header Right Widget"
+msgstr ""
+
+#: functions.php:65
+msgid "Appears on top of the header"
+msgstr ""
+
+#: functions.php:84
+msgctxt "robotocondensed:on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:91
+msgctxt "Scada:on or off"
+msgid "on"
+msgstr ""
+
+#: header.php:37
+msgid "Request An Appointment"
+msgstr ""
+
+#: header.php:80
+msgid "Menu"
+msgstr ""
+
+#: image.php:33 image.php:65 inc/template-tags.php:70 inc/template-tags.php:89
+msgid "Edit"
+msgstr ""
+
+#: image.php:38
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: image.php:39
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/about-themes.php:5
+msgid "About Theme"
+msgstr ""
+
+#: inc/about-themes.php:24
+msgid "About Theme Info"
+msgstr ""
+
+#: inc/about-themes.php:26
+msgid ""
+"SKT Toothy is a free simple dental WordPress theme which is responsive and "
+"can cater to medical, health care, hospital, dentists, clinics, lab, "
+"therapy, healing, pharma, nursing, dispensary and surgery websites. It can "
+"also be used for other multi purpose industries like business and corporate "
+"and is scalable. Compatible with qTranslate X and translation ready."
+msgstr ""
+
+#: inc/about-themes.php:33
+msgid "Live Demo"
+msgstr ""
+
+#: inc/about-themes.php:34
+msgid "Buy Pro"
+msgstr ""
+
+#: inc/about-themes.php:35
+msgid "Documentation"
+msgstr ""
+
+#: inc/customizer.php:37
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/customizer.php:38
+msgid "More color options in PRO Version"
+msgstr ""
+
+#: inc/customizer.php:47
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer.php:49
+msgid ""
+"Featured Image Size Should be ( 1400x591 ) More slider settings available in "
+"PRO Version"
+msgstr ""
+
+#: inc/customizer.php:62
+msgid "Select page for slide one:"
+msgstr ""
+
+#: inc/customizer.php:74
+msgid "Select page for slide two:"
+msgstr ""
+
+#: inc/customizer.php:86
+msgid "Select page for slide three:"
+msgstr ""
+
+#: inc/customizer.php:98
+msgid "Uncheck To Show Slider"
+msgstr ""
+
+#: inc/customizer.php:104
+msgid "Homepage Services Section"
+msgstr ""
+
+#: inc/customizer.php:105
+msgid "Select Page from the dropdown for first section"
+msgstr ""
+
+#: inc/customizer.php:127 inc/customizer.php:188
+msgid "Uncheck To Show This Section"
+msgstr ""
+
+#: inc/customizer.php:133
+msgid "Homepage Four Boxes Section"
+msgstr ""
+
+#: inc/customizer.php:134
+msgid "Select Pages from the dropdown for homepage four boxes section"
+msgstr ""
+
+#: inc/customizer.php:193
+msgid "Social Settings"
+msgstr ""
+
+#: inc/customizer.php:194
+msgid "More social icon available in PRO Version"
+msgstr ""
+
+#: inc/customizer.php:205
+msgid "Add facebook link here"
+msgstr ""
+
+#: inc/customizer.php:215
+msgid "Add twitter link here"
+msgstr ""
+
+#: inc/customizer.php:224
+msgid "Add google plus link here"
+msgstr ""
+
+#: inc/customizer.php:233
+msgid "Add linkedin link here"
+msgstr ""
+
+#: inc/customizer.php:239
+msgid "Footer Area"
+msgstr ""
+
+#: inc/customizer.php:260
+msgid "Add title for latest news feed"
+msgstr ""
+
+#: inc/customizer.php:271
+msgid "Add title for about us"
+msgstr ""
+
+#: inc/customizer.php:283
+msgid "About Description"
+msgstr ""
+
+#: inc/customizer.php:294
+msgid "Add title for footer contact info"
+msgstr ""
+
+#: inc/customizer.php:300
+msgid "Contact Details"
+msgstr ""
+
+#: inc/customizer.php:301
+msgid "Add you contact details here"
+msgstr ""
+
+#: inc/customizer.php:313
+msgid "Add contact address here"
+msgstr ""
+
+#: inc/customizer.php:322
+msgid "Add contact number here."
+msgstr ""
+
+#: inc/customizer.php:332
+msgid "Add you email here"
+msgstr ""
+
+#: inc/customizer.php:342
+msgid "Add link for request an appointment button on header"
+msgstr ""
+
+#: inc/template-tags.php:33
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:37
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: inc/template-tags.php:38
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+#: inc/template-tags.php:43
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: inc/template-tags.php:47
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:70
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:86
+#, php-format
+msgctxt "1: date"
+msgid "%1$s"
+msgstr ""
+
+#: inc/template-tags.php:93
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:184
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Published %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+
+#: no-results.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#: no-results.php:17
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: no-results.php:21
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: no-results.php:26
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:10
+msgid "Search..."
+msgstr ""
+
+#: searchform.php:12
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:11
+msgid "Category"
+msgstr ""
+
+#: sidebar.php:18
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:24
+msgid "Meta"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "SKT Toothy"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://www.sktthemes.net/shop/free-dentist-wordpress-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"SKT Toothy is a free simple dental WordPress theme which is responsive and "
+"can cater to medical, health care, hospital, dentists, clinics, lab, "
+"therapy, healing, pharma, nursing, dispensary and surgery websites. It can "
+"also be used for other multi purpose industries like business and corporate "
+"and is scalable. Compatible with qTranslate X and translation ready. Check "
+"demo at: http://www.sktthemes.net/demo/dentist/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SKT Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.sktthemes.net"
+msgstr ""
