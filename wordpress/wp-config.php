@@ -23,10 +23,10 @@
 define( 'DB_NAME', '3696605_beautifulteeth' );
 
 /** MySQL database username */
-define( 'DB_USER', '3696605_beautifulteeth' );
+define( 'DB_USER', 'root' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'albcorare12345!' );
+define( 'DB_PASSWORD', '' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'fdb27.runhosting.com:3306' );
