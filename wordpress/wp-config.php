@@ -29,7 +29,7 @@ define( 'DB_USER', '3696605_beautifulteeth' );
 define( 'DB_PASSWORD', 'albcorare12345!' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'fdb27.runhosting.com' );
+define( 'DB_HOST', 'fdb27.runhosting.com:3306' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
